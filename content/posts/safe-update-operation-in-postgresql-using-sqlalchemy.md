@@ -1,5 +1,5 @@
 ---
-author: ["Me"]
+author: ["Ivan Kwong"]
 title: 'Safe Update Operation in Postgresql Using Sqlalchemy'
 date: 2021-05-08T01:51:19-04:00
 description: "Avoid race conditions in PostgreSQL updates using SQLAlchemy techniques."
@@ -15,7 +15,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 editPost:
-    URL: "https://github.com/ivankwongtszfung/my-tech-blog/tree/content"
+    URL: "https://github.com/ivankwongtszfung/my-tech-blog/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
